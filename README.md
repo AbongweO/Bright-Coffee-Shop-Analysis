@@ -14,7 +14,3 @@ This project is about understing revenue trends, sales trends across products an
 * Snowflake
 * Microsoft Excel
 * Canva
-
-# SUMMARY OF FINDINGS 
-* Cofee generated the more revenue while packaged chocolate generated less revenue.
-* Morning has the highest revenue, afternoon is okay and evening has the lowest revenue
