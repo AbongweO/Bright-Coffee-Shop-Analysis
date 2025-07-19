@@ -1,7 +1,7 @@
 # Bright-Coffee-Shop-Analysis
 
 # INTRODUCTION
-This project is about understing revenue trends, sales trends across products and time intervals of Brightlight Coffee Shop from 1 January 2023 to 30 January 2023.
+This project is about understing revenue trends, sales trends across products and time intervals of Brightlight Coffee Shop from 1 January 2023 to 30 June 2023.
 
 # OBJECTIVE
 * Which products generate the most revenue
